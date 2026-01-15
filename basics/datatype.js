@@ -15,5 +15,17 @@ let isloggedin=false
 
 //non primitive 
 //object ,array functions
+// array = const xyz=["",""];
+//object
+
+//{
+  //  name:jatin
+    
+//}
+
+
 
 console.log(typeof age );
+/*
+const myfunction=function(){}
+*/
