@@ -4,16 +4,16 @@
 let name ="jatin "
 let age=21
 let isloggedin=false
-
+//primitive
 //number==> 2 to the power 53
 // bigINT
 //string==>""
-//boolean=> treue/false
+//boolean=> true/false
 //null=> standalone value 
 // undefine => when value is not given 
 //symbol=> use for unique 
 
-
-//object 
+//non primitive 
+//object ,array functions
 
 console.log(typeof age );
